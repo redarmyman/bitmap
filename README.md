@@ -13,6 +13,13 @@ distance/BitmapDistances.js
 ```
 it iterates through bitmap and then again iterates to compute distances, and then if distance wasn't saved in result map or is smaller than that in result map it saves computed distance in result map.
 
+### Start
+
+To start a program:
+```
+node index.js
+```
+
 ### Input
 
 The number of test cases t (1≤t≤1000) is in the first line of input, then t test
